@@ -2,8 +2,8 @@
 <manifest>
 
 <remote   name="caf"
-          fetch="https://source.codeaurora.org/quic/la/"
-          review="codeaurora.org"/>
+          fetch="https://git.codelinaro.org/clo/la/"
+          review="git.codelinaro.org"/>
 
 <default  revision="refs/tags/LA.QSSI.11.0.r1-14800-qssi.0"
           remote="caf"
